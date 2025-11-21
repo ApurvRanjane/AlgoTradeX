@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/AlgoTradeX-Zerodha_Style_Trading_App-blue?style=for-the-badge&logo=react" alt="AlgoTradeX Banner">
+</p>
+
 # 🚀 AlgoTradeX – Zerodha-Style Trading Platform (UI Complete + Partial Functionality)
 
 AlgoTradeX is a Zerodha-inspired trading platform clone built using the MERN stack.  
